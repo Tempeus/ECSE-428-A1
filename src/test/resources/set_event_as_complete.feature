@@ -1,4 +1,4 @@
-Feature: set an event as complete
+-+Feature: set an event as complete
 
   As a developer
   I would like to set the event as complete
